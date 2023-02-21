@@ -63,3 +63,4 @@ Use the LA6 Editor to configure your signal Tower
 |PROTECTION RATINGS|IP54 (IEC 60529)|
 
 windows is a trademark or registered trademark of Microsoft Coporation.
+
